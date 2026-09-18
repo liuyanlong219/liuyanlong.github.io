@@ -2,78 +2,55 @@
 layout: homepage
 ---
 
-## About Me
+# About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
+I am an AI researcher and engineer currently working at **Baidu**, where I focus on **foundation model post-training for Agent applications**, with a particular focus on **Search Agents** and **Code Agents**.
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
+I received my M.S. in Computer Science from **Harbin Institute of Technology (HIT)**, where I was advised by **Prof. Zhijun Li** and **Dr. Xiaokun Leng**, Chairman of Leju Robotics.
+
+My previous work spans **LLM-based Agents, Multi-Agent Systems, RAG, robot task planning, multi-robot coordination**.
+
+I am particularly interested in **Robotics and Embodied Intelligence**, especially in bringing intelligence from language models into the physical world.
+
+# Experience
+
+**Baidu · ERNIE Team**  
+*Foundation Model / Agent Engineer*  
+2025 — Present
+
+Working on post-training of foundation models for Agent applications, with a focus on:
+
+- Search Agents
+- Code Agents
+- Agent data and post-training
+- Tool use, reasoning and task execution
 
 
-## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+**Baidu · ERNIE Team**
+*LLM Algorithm Intern*
+2024
 
-## News
+**Leju Robotics**
+*Robotics Engineer Intern*
+2022 — 2023
 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
 
-## Publications
 
-{% include_relative _includes/publications.html %}
+# Education
 
-## Notes and Presentations
+**Harbin Institute of Technology**  
+*M.S. in Computer Science*  
+2022 — 2025
 
-{% include_relative _includes/notes.html %}
+Advisors: **Prof. Zhijun Li** and **Dr. Xiaokun Leng**
 
-## Teaching
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+**Harbin Engineering University**  
+*B.S. in Computer Science*  
+2018 — 2022
 
-**University of Washington**
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+# Research Interests
 
-## Service
-
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
-
-## Misc. Links
-
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+**Agent · LLM · Post-training · Robotics · Embodied AI · Multi-Agent Systems**
